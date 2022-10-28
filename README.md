@@ -5,8 +5,8 @@
 
 <div align="center" style="flex-direction: row">
   <a href="https://github.com/FlaviomannDev">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FlaviomannDev&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviomannDev&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlaviomannDev&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviomannDev&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 
 <div style="display: inline_block"><br>
